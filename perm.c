@@ -5,6 +5,7 @@
 #define NGID 1000 //for hasan/student	
 #define NUID 1000 //for hasan/student
 
+//add a comment here
 
 int main(int argc, char** argv){
 	
